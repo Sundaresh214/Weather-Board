@@ -1,7 +1,7 @@
 # Weather-Board
 Weather Forecasting Web App  This Weather Forecasting Web App is designed to provide users with up-to-date weather information for any location. Built using HTML, CSS, and JavaScript, it offers an intuitive and user-friendly interface to check the current weather conditions
 
-Key Features:
+**Key Features:**
 
 Real-time Weather Data: Retrieve current weather conditions including temperature, humidity, wind speed, and more.
 
@@ -13,7 +13,7 @@ Responsive Design: The app is fully responsive and works seamlessly on desktops,
 
 Clean and Modern UI: Easy-to-navigate interface with aesthetically pleasing design elements.
 
-Technical Specifications:
+**Technical Specifications:**
 
 HTML: Structuring the app’s content and layout.
 
